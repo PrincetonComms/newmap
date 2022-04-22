@@ -4,13 +4,39 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    font-family: 'Open Sans', sans-serif;
+}
 
+.btn,
+.btn:focus
+{
+    background-color: #31688E;
+    color: #fff;
+}
+
+.btn:hover,
+.btn:active
+{
+    background-color: #3779A6;
+    color: #fff;
+}
+
+.construction-link a,
+.construction-link a:focus
+{
+    color: #31688E;
+}
+
+.construction-link a:hover,
+.construction-link a:active
+{
+    color: #3779A6;
 }
 
 .top-decoration
 {
     height: 5px;
-    background-color: #f58025;
+    background-color: #EE7F2D;
     margin: 0 5%;
 }
 
@@ -23,7 +49,7 @@ h1
 .wrapper
 {
     background-color: #fff;
-    border: 2px solid #f58025;
+    border: 2px solid #EE7F2D;
     margin: 0 2rem;
 }
 
@@ -35,8 +61,8 @@ h1,
 
 .footer
 {
-    background-color: #f58025;
-    color: #000;
+    background-color: #EE7F2D;
+    color: #10312D;
     padding: 1rem;
     font-weight: 500;
     line-height: 1rem;
