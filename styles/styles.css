@@ -1,5 +1,5 @@
 body {
-    background: url('../images/background-map.png') no-repeat center center fixed;
+    background: url('../images/background-map.gif') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -7,10 +7,17 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+section
+{
+    background: rgba(255, 255, 255, 0.4);
+    overflow: hidden;
+    height: 100%;
+}
+
 .btn,
 .btn:focus
 {
-    background-color: #31688E;
+    background-color: #0073b4;
     color: #fff;
 }
 
@@ -50,7 +57,7 @@ h1
 {
     background-color: #fff;
     border: 2px solid #EE7F2D;
-    margin: 0 2rem;
+    margin: 0 4rem;
 }
 
 h1,

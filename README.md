@@ -1,3 +1,3 @@
 ## Newmap
 
-Temporary page for mobile advertising the upcoming new campus map and redirecting users to the current map.
+Temporary page advertising upcoming changes to the campus map and redirecting users to the current map.
