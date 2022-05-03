@@ -50,7 +50,8 @@ section
 h1
 {
     color: #f58025;
-    line-height: calc(1.375rem + 1.5vw);
+    /*line-height: calc(1.375rem + 1.5vw);*/
+    line-height: 120%;
 }
 
 .wrapper
